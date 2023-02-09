@@ -8,4 +8,4 @@
  - Bullet point 2
 
 
-![Sahara Water Crisis](C:/Users/Leonard/OneDrive/Desktoprreadme-demo/sahara.png?raw=true)
+![Sahara Water Crisis](https://github.com/LenSin3/rreadme-demo/blob/main/sahara.png?raw=true)
